@@ -1,6 +1,6 @@
 Contribution Guidelines
 
-Thank you for considering contributing to the 2x2 Sudoku Solver project! Your contributions help improve the project for everyone.
+Thank you for considering contributing to the TicTacToe project! Your contributions help improve the project for everyone.
 
 Bug Reports:
 - If you encounter a bug while using the project, please search the existing issues to see if it has already been reported.
@@ -33,4 +33,4 @@ Be Respectful:
 - Respect the opinions and contributions of others, even if they differ from your own.
 - Avoid personal attacks, harassment, or offensive language in all interactions within the project.
 
-Thank you for your interest in contributing to 2x2 Sudoku Solver! We appreciate your help in making this project better for everyone.
+Thank you for your interest in contributing to TicTacToe! We appreciate your help in making this project better for everyone.
